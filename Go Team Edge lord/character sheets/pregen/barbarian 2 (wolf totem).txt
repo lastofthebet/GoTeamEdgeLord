@@ -1,0 +1,151 @@
+Name: Shoth the Unbroken
+Race/Ancestry/Heritage: Human
+Class & Level: Barbarian 3 (Wolf Totem Warrior)
+Background: Soldier
+Alignment: Chaotic Neutral
+Experience: 945 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 15
++2 ... Strength Ability Checks
++4 ... Strength Saving Throws *
++4 ... Athletics Skill  *
+225 lbs. ... Maximum Carrying Capacity
+450 lbs. ... Max. Push or Drag (Speed -5 ft.)
+450 lbs. ... Maximum Lift
+
+Dexterity 12
++1 ... Dexterity Ability Checks
++1 ... Dexterity Saving Throws
++1 ... Acrobatics Skill
++1 ... Sleight of Hand Skill
++1 ... Stealth Skill
+
+
+Constitution 13
++1 ... Constitution Ability Checks
++3 ... Constitution Saving Throws *
+
+Intelligence 11
++0 ... Intelligence Ability Checks
++0 ... Intelligence Saving Throws
++0 ... Arcana Skill
++0 ... History Skill
++0 ... Investigation Skill
++2 ... Nature Skill  *
++0 ... Religion Skill
+
+Wisdom 12
++1 ... Wisdom Ability Checks
++1 ... Wisdom Saving Throws
++1 ... Animal Handling Skill
++1 ... Insight Skill
++1 ... Medicine Skill
++1 ... Perception Skill
++3 ... Survival Skill  *
+
+Charisma 10
++0 ... Charisma Ability Checks
++0 ... Charisma Saving Throws
++0 ... Deception Skill
++2 ... Intimidation Skill  *
++0 ... Performance Skill
++0 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+11 ... Passive Perception
++1 ... Initiative Modifier
+
+Armor Class 12 ... Armor worn: none (Unarmored Defense)
+
+30 ft. Speed ... Base distance per move
+
+29 hit points ... 3d12 Hit Dice
+
+
+Greataxe. Melee Weapon Attack: +4 to hit, reach 5 ft. Hit: 1d12+2 slashing damage. (Must be used two-handed.)
+
+
+Handaxe. Melee Weapon Attack: +4 to hit, reach 5 ft. Hit: 1d6+2 slashing damage. (If thrown, normal range to 20 ft.; disadvantage long range 21 to 60 ft.)
+
+
+Javelin. Melee Weapon Attack: +4 to hit, reach 5 ft. Hit: 1d6+2 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+
+
+Rage. Lasts 1 minute (10 rounds), or until unconscious, haven't attacked or been hit.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Soldier Background [PHB p. 140]
+
+• Feature: Military Rank.
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Fought in a religious war. Has rivalry with a mage.
+
+• Ideal: Traditional tactics are best.
+
+• Bond: Made peace with old enemy.
+
+• Flaw: Overzealous in duties.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor, medium armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: gaming set (dice set), vehicles (land craft)
+• Saving Throws: Strength, Constitution
+• Skills: Athletics, Intimidation, Nature, Survival
+• Languages: Common, Draconic
+
+
+Human Traits [PHB p. 29]
+
+• Creature Type: Humanoid
+
+• Age: 27 years old
+
+• Medium Size (5' 7", 165 lbs.)
+
+
+Barbarian Class Features [PHB p. 46]
+
+• Rage (3/day)
+
+• Unarmored Defense (AC)
+
+• Reckless Attack (adv attacks)
+
+• Danger Sense (adv Dex vs. traps)
+
+• Spirit Seeker (rituals for Speak With Animals and Beast Sense)
+
+• Wolf Totem Spirit (close allies adv.)
+
+Rage Effects [PHB p. 48]
+
+• Advantage on STR checks and saves
+
+• +2 bonus on STR-based melee damage
+
+• Resistence (half damage) from bludgeoning, piercing and slashing damage.
+
+• Allies have advantage on targets within 5 feet of you.
+
+Rage. Lasts 1 minute (10 rounds), or until unconscious, haven't attacked or been hit.
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: greataxe, two (2) handaxes, five (5) javelins, explorer's pack (backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days' rations, waterskin, 50 feet of hempen rope on the side), gaming set (dice set), belt pouch, set of common clothes, an insignia of rank, trophy taken from fallen enemy. (This load is about 83 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 5 gold pieces (gp); 59 silver pieces (sp); 79 copper pieces (cp); 2 gems (worth 10 gp each)

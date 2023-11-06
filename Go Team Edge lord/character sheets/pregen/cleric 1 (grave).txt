@@ -1,0 +1,160 @@
+Name: Wind
+Race/Ancestry/Heritage: Tabaxi
+Class & Level: Cleric 3 (Domain of the Grave)
+Background: Knight
+Alignment: Lawful Neutral
+Experience: 972 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 12
++1 ... Strength Ability Checks
++1 ... Strength Saving Throws
++1 ... Athletics Skill
+180 lbs. ... Maximum Carrying Capacity
+360 lbs. ... Max. Push or Drag (Speed -5 ft.)
+360 lbs. ... Maximum Lift
+
+Dexterity 10
++0 ... Dexterity Ability Checks
++0 ... Dexterity Saving Throws
++0 ... Acrobatics Skill
++0 ... Sleight of Hand Skill
++2 ... Stealth Skill  * (Disadv.)
+
+
+Constitution 16
++3 ... Constitution Ability Checks
++3 ... Constitution Saving Throws
+
+Intelligence 4
+-3 ... Intelligence Ability Checks
+-3 ... Intelligence Saving Throws
+-3 ... Arcana Skill
+-1 ... History Skill  *
+-3 ... Investigation Skill
+-3 ... Nature Skill
+-1 ... Religion Skill  *
+
+Wisdom 18
++4 ... Wisdom Ability Checks
++6 ... Wisdom Saving Throws *
++4 ... Animal Handling Skill
++6 ... Insight Skill  *
++4 ... Medicine Skill
++6 ... Perception Skill  *
++4 ... Survival Skill
+
+Charisma 11
++0 ... Charisma Ability Checks
++2 ... Charisma Saving Throws *
++0 ... Deception Skill
++0 ... Intimidation Skill
++0 ... Performance Skill
++2 ... Persuasion Skill  *
+
+COMBAT [PHB p. 189]
+
+16 ... Passive Perception
++0 ... Initiative Modifier
+
+Armor Class 16 ... Armor worn: scale mail, shield
+
+30 ft. Speed ... Base distance per move
+
+27 hit points ... 3d8 Hit Dice
+
+
+Mace. Melee Weapon Attack: +3 to hit, reach 5 ft. Hit: 1d6+1 bludgeoning damage.
+
+
+Light Crossbow. Ranged Weapon Attack: +2 to hit. Hit: 1d8+0 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed, reloading limits to only one attack per round regardless of extra attacks.)
+
+
+Sacred Flame Cantrip. Ranged Spell Attack: Targets creature within 60 feet that you can see. That creature makes a DC 14 Dexterity saving throw or takes 1d8 radiant damage. (No damage if made save.)
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Knight Background [PHB p. 136]
+
+• Feature: Retainers.
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Comes from family of knights. Sociable nature.
+
+• Ideal: Prove worth beyond title.
+
+• Bond: Seeks approval from liege.
+
+• Flaw: Lax on most knighly duties.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor, medium armor, shields
+• Weapons: simple weapons
+• Tools: gaming set (Dragonchess)
+• Saving Throws: Wisdom, Charisma
+• Skills: History, Insight, Perception, Persuasion, Religion, Stealth
+• Languages: Common, Elvish, Gnomish
+
+
+Tabaxi Traits [MotM p. 33]
+
+• Creature Type: Humanoid
+
+• Age: 29 years old
+
+• Medium Size (5' 7", 135 lbs.)
+
+• Darkvision (60 feet)
+
+• Cat's Talent (Perception, Stealth)
+
+• Cat's Claws (climbing speed 20 ft., natural attack does 1d6+1 slashing damage on hit)
+
+• Feline Agility (move double speed on turn once, able to use again after spending one turn moving at 0 speed)
+
+
+Cleric Class Features
+[PHB p. 57, XGtE p. 19]
+
+• Ritual Casting
+
+• Circle of Mortality (max. h.p. recover to those at 0 h.p., spare the dying as bonus action)
+
+• Eyes of the Grave (60-foot detect undead)
+
+• Channel Divinity (1 use betw. short or long rests)
+
+• Channel Divinity: Turn Undead (within 30 ft., Wisdom save or turned 1 min. or until damaged)
+
+• Channel Divinity: Path to the Grave (cause vulnerability)
+
+Sacred Flame Cantrip. Ranged Spell Attack: Targets creature within 60 feet that you can see. That creature makes a DC 14 Dexterity saving throw or takes 1d8 radiant damage. (No damage if made save.)
+
+Spellcasting [PHB p. 201]
+
+Spell Attack Modifier +6
+Spell Save DC 14
+Cantrips Known: Resistance, Sacred Flame, Spare the Dying, Thaumaturgy
+
+
+Prepared Spells
+1st Level (4 slots): Bane*, False Life*, Detect Magic, Cure Wounds, Command
+
+2nd Level (2 slots): Gentle Repose*, Ray of Enfeeblement*, Lesser Restoration, Hold Person, Continual Flame, Locate Object
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: scale mail (AC 14), shield (AC +2), mace, set of fine clothes, noble house's or faith's banner, writ of service, a purse. (This load is about 112 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 18 gold pieces (gp); 27 silver pieces (sp); 10 copper pieces (cp); 2 gems (worth 10 gp each)
+

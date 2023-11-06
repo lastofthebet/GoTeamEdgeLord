@@ -1,0 +1,144 @@
+Name: Puxten Jughe
+Race/Ancestry/Heritage: Half-Elf
+Class & Level: Rogue 3 (Assassin)
+Background: Knight
+Alignment: Neutral
+Experience: 927 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 10
++0 ... Strength Ability Checks
++0 ... Strength Saving Throws
++2 ... Athletics Skill  *
+150 lbs. ... Maximum Carrying Capacity
+300 lbs. ... Max. Push or Drag (Speed -5 ft.)
+300 lbs. ... Maximum Lift
+
+Dexterity 16
++3 ... Dexterity Ability Checks
++5 ... Dexterity Saving Throws *
++3 ... Acrobatics Skill
++7 ... Sleight of Hand Skill  **
++7 ... Stealth Skill  **
+
+
+Constitution 13
++1 ... Constitution Ability Checks
++1 ... Constitution Saving Throws
+
+Intelligence 11
++0 ... Intelligence Ability Checks
++2 ... Intelligence Saving Throws *
++0 ... Arcana Skill
++2 ... History Skill  *
++0 ... Investigation Skill
++0 ... Nature Skill
++0 ... Religion Skill
+
+Wisdom 11
++0 ... Wisdom Ability Checks
++0 ... Wisdom Saving Throws
++0 ... Animal Handling Skill
++0 ... Insight Skill
++0 ... Medicine Skill
++2 ... Perception Skill  *
++0 ... Survival Skill
+
+Charisma 16
++3 ... Charisma Ability Checks
++3 ... Charisma Saving Throws
++5 ... Deception Skill  *
++5 ... Intimidation Skill  *
++3 ... Performance Skill
++5 ... Persuasion Skill  *
+
+COMBAT [PHB p. 189]
+
+12 ... Passive Perception
++3 ... Initiative Modifier
+
+Armor Class 14 ... Armor worn: leather armor
+
+30 ft. Speed ... Base distance per move
+
+21 hit points ... 3d8 Hit Dice
+
+
+Rapier. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d8+3 piercing damage.
+
+
+Shortbow. Ranged Weapon Attack: +5 to hit. Hit: 1d6+3 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed.)
+
+
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. 1d4+3 piercing damage. (If thrown, normal range to 20 ft.; disadvantage long range 21 to 60 ft.)
+
+
+Sneak Attack: Once per turn, deal +2d6 extra damage to one creature hit if attack with advantage using finesse or ranged weapon. Don't need advantage if an enemy of the target is within 5 feet of it, enemy isn't incapacitated, and you don't have disadvantage on attack.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Knight Background [PHB p. 136]
+
+• Feature: Retainers.
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Fought against army of giants. Uninhibited manner.
+
+• Ideal: Pain purges weakness.
+
+• Bond: You're in love with a commoner.
+
+• Flaw: Exploits knightly authority.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor
+• Weapons: simple weapons, hand crossbow, longsword, rapier, shortsword
+• Tools: disguise kit, gaming set (Dragonchess), poisoner's kit, thieves' tools
+• Saving Throws: Dexterity, Intelligence
+• Skills: Athletics, Deception, History, Intimidation, Perception, Persuasion, Sleight of Hand, Stealth
+• Languages: Common, Thieves' Cant, Elvish, Halfling, Orc
+
+
+Half-Elf Traits [PHB p. 38]
+
+• Creature Type: Humanoid
+
+• Age: 71 years old
+
+• Medium Size (6' 0", 185 lbs.)
+
+• Darkvision (60 feet)
+
+• Fey Ancestry (vs. charm, no sleep)
+
+
+Rogue Class Features [PHB p. 94]
+
+• Expertise (prof. noted with **)
+
+• Sneak Attack (+2d6)
+
+• Thieves' Cant (slang speak in code)
+
+• Cunning Action (Dash, Disengage or Hide)
+
+• Assassinate (adv. vs. no turn yet and any hit auto-critical)
+
+Sneak Attack: Once per turn, deal +2d6 extra damage to one creature hit if attack with advantage using finesse or ranged weapon. Don't need advantage if an enemy of the target is within 5 feet of it, enemy isn't incapacitated, and you don't have disadvantage on attack.
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: leather armor (AC 11), rapier, two (2) daggers, shortbow and 20 arrows, disguise kit (cosmetics, hair dye, props, etc.), poisoner's kit (vials, chemicals, venoms), thieves' tools (lockpicks, small file and pliers, tiny mirror), set of fine clothes, noble house's or faith's banner, writ of service, a purse. (This load is about 38 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 13 gold pieces (gp); 33 silver pieces (sp); 44 copper pieces (cp); 2 gems (worth 10 gp each)
+

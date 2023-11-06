@@ -1,0 +1,146 @@
+Name: Dimian Mooty
+Race/Ancestry/Heritage: Human
+Class & Level: Paladin 3 (Oath of Redemption)
+Background: Pirate
+Alignment: Chaotic Neutral
+Experience: 981 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 14
++2 ... Strength Ability Checks
++2 ... Strength Saving Throws
++4 ... Athletics Skill  *
+210 lbs. ... Maximum Carrying Capacity
+420 lbs. ... Max. Push or Drag (Speed -5 ft.)
+420 lbs. ... Maximum Lift
+
+Dexterity 10
++0 ... Dexterity Ability Checks
++0 ... Dexterity Saving Throws
++0 ... Acrobatics Skill
++0 ... Sleight of Hand Skill
++0 ... Stealth Skill  (Disadv.)
+
+
+Constitution 12
++1 ... Constitution Ability Checks
++1 ... Constitution Saving Throws
+
+Intelligence 11
++0 ... Intelligence Ability Checks
++0 ... Intelligence Saving Throws
++0 ... Arcana Skill
++0 ... History Skill
++0 ... Investigation Skill
++0 ... Nature Skill
++2 ... Religion Skill  *
+
+Wisdom 11
++0 ... Wisdom Ability Checks
++2 ... Wisdom Saving Throws *
++0 ... Animal Handling Skill
++0 ... Insight Skill
++0 ... Medicine Skill
++2 ... Perception Skill  *
++0 ... Survival Skill
+
+Charisma 13
++1 ... Charisma Ability Checks
++3 ... Charisma Saving Throws *
++1 ... Deception Skill
++1 ... Intimidation Skill
++1 ... Performance Skill
++3 ... Persuasion Skill  *
+
+COMBAT [PHB p. 189]
+
+12 ... Passive Perception
++0 ... Initiative Modifier
+
+Armor Class 18 ... Armor worn: chain mail, shield
+
+30 ft. Speed ... Base distance per move
+
+25 hit points ... 3d10 Hit Dice
+
+
+Battleaxe. Melee Weapon Attack: +4 to hit, reach 5 ft. Hit: 1d8+2 slashing damage. (If used two-handed in melee, does 1d10+2 damage.)
+
+
+Javelin. Melee Weapon Attack: +4 to hit, reach 5 ft. Hit: 1d6+2 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+
+
+Fighting Style: Duelling. Add 2 damage to each melee weapon attack if no other weapon in other hand.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Pirate Background [PHB p. 139]
+
+• Feature: Bad Reputation.
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Exaggerates all stories. Pessimistic nature.
+
+• Ideal: Ship's safety above all.
+
+• Bond: Avoiding bounty hunters.
+
+• Flaw: Leaves no witnesses.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor, medium armor, heavy armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: navigator's tools, vehicles (watercraft)
+• Saving Throws: Wisdom, Charisma
+• Skills: Athletics, Perception, Persuasion, Religion
+• Languages: Common, Giant
+
+
+Human Traits [PHB p. 29]
+
+• Creature Type: Humanoid
+
+• Age: 28 years old
+
+• Medium Size (5' 8", 182 lbs.)
+
+
+Paladin Class Features [PHB p. 82, XGtE p. 37]
+
+• Divine Sense (sense good, evil 2 / day)
+
+• Lay On Hands (heal 15 h.p. betw. long rests)
+
+• Divine Smite (use 1st level spell slot for +2d8 radiant damage)
+
+• Channel Divinity (emissary of peace for +5 to Charisma (Persuasion) for 10 min., or rebuke the violent to make attacker Wis. save or take radiant damage)
+
+• Divine Health (immune to disease)
+
+Fighting Style: Duelling. Add 2 damage to each melee weapon attack if no other weapon in other hand.
+
+Spellcasting [PHB p. 201]
+
+Spell Attack Modifier +3
+Spell Save DC 11
+Cantrips Known: No Paladin cantrips
+
+
+Prepared Spells
+1st Level (3 slots): Sanctuary, Sleep, Cure Wounds, Wrathful Smite, Bless
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: chain mail armor (AC 16), shield (AC +2), battleaxe, five (5) javelins, belt pouch, set of common clothes, rope (silk, 50 feet), belaying pin (club), a non-magical lucky charm. (This load is about 144 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 9 gold pieces (gp); 45 silver pieces (sp); 35 copper pieces (cp); 4 gems (worth 10 gp each)

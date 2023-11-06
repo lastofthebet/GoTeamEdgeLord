@@ -1,0 +1,148 @@
+
+Name: Ulox Yargrove
+Race/Ancestry/Heritage: Human
+Class & Level: Ranger 3 (Horizon Walker)
+Background: Folk Hero
+Alignment: Chaotic Neutral
+Experience: 954 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 12
++1 ... Strength Ability Checks
++3 ... Strength Saving Throws *
++3 ... Athletics Skill  *
+180 lbs. ... Maximum Carrying Capacity
+360 lbs. ... Max. Push or Drag (Speed -5 ft.)
+360 lbs. ... Maximum Lift
+
+Dexterity 16
++3 ... Dexterity Ability Checks
++5 ... Dexterity Saving Throws *
++3 ... Acrobatics Skill
++3 ... Sleight of Hand Skill
++3 ... Stealth Skill
+
+
+Constitution 15
++2 ... Constitution Ability Checks
++2 ... Constitution Saving Throws
+
+Intelligence 11
++0 ... Intelligence Ability Checks
++0 ... Intelligence Saving Throws
++0 ... Arcana Skill
++0 ... History Skill
++0 ... Investigation Skill
++0 ... Nature Skill
++0 ... Religion Skill
+
+Wisdom 15
++2 ... Wisdom Ability Checks
++2 ... Wisdom Saving Throws
++4 ... Animal Handling Skill  *
++4 ... Insight Skill  *
++2 ... Medicine Skill
++4 ... Perception Skill  *
++4 ... Survival Skill  *
+
+Charisma 9
+-1 ... Charisma Ability Checks
+-1 ... Charisma Saving Throws
+-1 ... Deception Skill
+-1 ... Intimidation Skill
+-1 ... Performance Skill
+-1 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+14 ... Passive Perception
++3 ... Initiative Modifier
+
+Armor Class 15 ... Armor worn: leather armor
+
+30 ft. Speed ... Base distance per move
+
+28 hit points ... 3d10 Hit Dice
+
+
+Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 piercing damage.
+
+
+Longbow. Ranged Weapon Attack: +5 to hit. Hit: 1d8+3 piercing damage. (Normal range to 150 ft.; disadvantage long range 151 to 600 ft. Must be used two-handed.)
+
+
+Fighting Style: Defense. In armor, gain +1 to AC.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Folk Hero Background [PHB p. 131]
+
+• Feature: Rustic Hospitality
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Regularly petitions nobles to ease taxes. Holding hope for missing loved one.
+
+• Ideal: Praises faith's laws.
+
+• Bond: Seeks to protect the weak.
+
+• Flaw: Actually ashamed of rural roots.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor, medium armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: cartographer's tools, vehicles (land craft)
+• Saving Throws: Strength, Dexterity
+• Skills: Animal Handling, Athletics, Insight, Perception, Survival
+• Languages: Common, Orc, Primodial
+
+
+Human Traits [PHB p. 29]
+
+• Creature Type: Humanoid
+
+• Age: 35 years old
+
+• Medium Size (5' 4", 158 lbs.)
+
+
+Ranger Class Features [PHB p. 90, XGtE p. 42]
+
+• Favored Enemy: Elementals (adv. on Survival checks to track, Intelligence to recall lore)
+
+• Natural Explorer: Deserts (double proficiency bonus on Wisdom and Intelligence on favored terrain)
+
+• Primeval Awareness (spell slots to sense creatures in 1 mile, or 6 miles in favored terrain)
+
+• Detect Portal (once betw. rests, sense closest portal within 1 mile)
+
+• Planar Warrior (bonus action turns your attack to force damage and +1d8 damage)
+
+Fighting Style: Defense. In armor, gain +1 to AC.
+
+Spellcasting [PHB p. 201]
+
+Spell Attack Modifier +4
+Spell Save DC 12
+Cantrips Known: No Ranger cantrips
+
+
+Prepared Spells
+1st Level (3 slots): Protection From Good And Evil, Animal Friendship, Ensnaring Strike, Cure Wounds
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: leather armor (AC 11), two (2) shortswords, longbow and 20 arrows, cartographer's tools (compass, maps, pens), belt pouch, set of common clothes, iron pot, shovel. (This load is about 50 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 12 gold pieces (gp); 23 silver pieces (sp); 37 copper pieces (cp); 3 gems (worth 10 gp each)
+

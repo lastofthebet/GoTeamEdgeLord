@@ -1,0 +1,157 @@
+Name: Errartaur the Beloved
+Race/Ancestry/Heritage: Dragonborn (Blue Dragon Ancestry)
+Class & Level: Wizard 3 (Illusionist)
+Background: Knight
+Alignment: Lawful Good
+Experience: 972 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 10
++0 ... Strength Ability Checks
++0 ... Strength Saving Throws
++2 ... Athletics Skill  *
+150 lbs. ... Maximum Carrying Capacity
+300 lbs. ... Max. Push or Drag (Speed -5 ft.)
+300 lbs. ... Maximum Lift
+
+Dexterity 13
++1 ... Dexterity Ability Checks
++1 ... Dexterity Saving Throws
++1 ... Acrobatics Skill
++1 ... Sleight of Hand Skill
++1 ... Stealth Skill
+
+
+Constitution 16
++3 ... Constitution Ability Checks
++3 ... Constitution Saving Throws
+
+Intelligence 16
++3 ... Intelligence Ability Checks
++5 ... Intelligence Saving Throws *
++5 ... Arcana Skill  *
++5 ... History Skill  *
++5 ... Investigation Skill  *
++3 ... Nature Skill
++3 ... Religion Skill
+
+Wisdom 11
++0 ... Wisdom Ability Checks
++2 ... Wisdom Saving Throws *
++0 ... Animal Handling Skill
++0 ... Insight Skill
++2 ... Medicine Skill  *
++0 ... Perception Skill
++0 ... Survival Skill
+
+Charisma 11
++0 ... Charisma Ability Checks
++0 ... Charisma Saving Throws
++0 ... Deception Skill
++0 ... Intimidation Skill
++0 ... Performance Skill
++2 ... Persuasion Skill  *
+
+COMBAT [PHB p. 189]
+
+10 ... Passive Perception
++1 ... Initiative Modifier
+
+Armor Class 11 ... Armor worn: none
+
+30 ft. Speed ... Base distance per move
+
+23 hit points ... 3d6 Hit Dice
+
+
+Quarterstaff. Melee Weapon Attack: +2 to hit, reach 5 ft. Hit: 1d6+0 bludgeoning damage. (If used two-handed in melee, does 1d8+0 damage.)
+
+
+Dagger. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. 1d4+1 piercing damage. (If thrown, normal range to 20 ft.; disadvantage long range 21 to 60 ft.)
+
+
+Chill Touch Cantrip. Ranged Spell Attack: +5 to hit, target one creature within 120 ft. range. Hit: 1d8 necrotic damage and can't regain HP until the start of your next turn. If target is undead, it also suffers disadvantage on attack rolls until the end of your next turn.
+
+
+Draconic Breath Weapon: Once between short or long rests, breathe out 5 ft. by 30 ft. line of lightning causing 2d6 lightning damage (DC 13 Dex save for half damage) to all caught in area.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Knight Background [PHB p. 136]
+
+• Feature: Retainers.
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Fought against army of giants. Owes debt to a noble.
+
+• Ideal: One's word is one's bond.
+
+• Bond: Seeks approval from liege.
+
+• Flaw: Has reputation as reckless.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: none
+• Weapons: dagger, dart, light crossbow, quarterstaff, sling
+• Tools: gaming set (Dragonchess)
+• Saving Throws: Intelligence, Wisdom
+• Skills: Arcana, Athletics, History, Investigation, Medicine, Persuasion
+• Languages: Common, Dwarvish, Draconic
+
+
+Dragonborn Traits
+(Blue Dragon Ancestry) [PHB p. 32]
+
+• Creature Type:
+
+• Age: 18 years old
+
+• Medium Size (6' 9", 325 lbs.)
+
+• Drac. Breath Weapon (lightning)
+
+• Drac. Resistance (half damage vs. lighting)
+
+
+Wizard Class Features [PHB p. 112]
+
+• Ritual Casting
+
+• Arcane Recovery (regain spell slots totalling 2 levels after short rest once per day)
+
+• Illusion Savant (copy such spells in half the time)
+
+• Improved Minor Illusion (Minor Illusion cantrip does image and sound simultaneously)
+
+Chill Touch Cantrip. Ranged Spell Attack: +5 to hit, target one creature within 120 ft. range. Hit: 1d8 necrotic damage and can't regain HP until the start of your next turn. If target is undead, it also suffers disadvantage on attack rolls until the end of your next turn.
+
+Draconic Breath Weapon: Once between short or long rests, breathe out 5 ft. by 30 ft. line of lightning causing 2d6 lightning damage (DC 13 Dex save for half damage) to all caught in area.
+
+Spellcasting [PHB p. 201]
+
+Spell Attack Modifier +5
+Spell Save DC 13
+Cantrips Known: Chill Touch, Friends, Mage Hand
+
+
+Prepared Spells
+1st Level (4 slots): Mage Armor, Silent Image, Disguise Self, Detect Magic
+
+2nd Level (2 slots): Phantasmal Force, Misty Step
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: two (2) daggers, quarterstaff, spear, set of fine clothes, noble house's or faith's banner, writ of service, a purse. (This load is about 15 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 14 gold pieces (gp); 73 silver pieces (sp); 75 copper pieces (cp); 2 gems (worth 10 gp each)
+

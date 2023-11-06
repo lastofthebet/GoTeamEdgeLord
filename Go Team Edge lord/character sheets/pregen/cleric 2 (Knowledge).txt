@@ -1,0 +1,155 @@
+Name: Sedni
+Race/Ancestry/Heritage: Tabaxi
+Class & Level: Cleric 3 (Domain of Knowledge)
+Background: Pirate
+Alignment: Lawful Neutral
+Experience: 936 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 10
++0 ... Strength Ability Checks
++0 ... Strength Saving Throws
++2 ... Athletics Skill  *
+150 lbs. ... Maximum Carrying Capacity
+300 lbs. ... Max. Push or Drag (Speed -5 ft.)
+300 lbs. ... Maximum Lift
+
+Dexterity 6
+-2 ... Dexterity Ability Checks
+-2 ... Dexterity Saving Throws
+-2 ... Acrobatics Skill
+-2 ... Sleight of Hand Skill
++0 ... Stealth Skill  * (Disadv.)
+
+
+Constitution 13
++1 ... Constitution Ability Checks
++1 ... Constitution Saving Throws
+
+Intelligence 13
++1 ... Intelligence Ability Checks
++1 ... Intelligence Saving Throws
++3 ... Arcana Skill  *
++5 ... History Skill  **
++1 ... Investigation Skill
++1 ... Nature Skill
++5 ... Religion Skill  **
+
+Wisdom 15
++2 ... Wisdom Ability Checks
++4 ... Wisdom Saving Throws *
++2 ... Animal Handling Skill
++2 ... Insight Skill
++4 ... Medicine Skill  *
++4 ... Perception Skill  *
++2 ... Survival Skill
+
+Charisma 8
+-1 ... Charisma Ability Checks
++1 ... Charisma Saving Throws *
+-1 ... Deception Skill
+-1 ... Intimidation Skill
+-1 ... Performance Skill
+-1 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+14 ... Passive Perception
+-2 ... Initiative Modifier
+
+Armor Class 14 ... Armor worn: scale mail, shield
+
+30 ft. Speed ... Base distance per move
+
+21 hit points ... 3d8 Hit Dice
+
+
+Mace. Melee Weapon Attack: +2 to hit, reach 5 ft. Hit: 1d6+0 bludgeoning damage.
+
+
+Light Crossbow. Ranged Weapon Attack: +0 to hit. Hit: 1d8-2 piercing damage. (Normal range to 80 ft.; disadvantage long range 81 to 320 ft. Must be used two-handed, reloading limits to only one attack per round regardless of extra attacks.)
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Pirate Background [PHB p. 139]
+
+• Feature: Bad Reputation.
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Exaggerates all stories. Determined outlook.
+
+• Ideal: Sailing lets one see the world.
+
+• Bond: Vowed to avenge slain mentor.
+
+• Flaw: Fights any who insult the captain.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor, medium armor, shields
+• Weapons: simple weapons
+• Tools: navigator's tools, vehicles (watercraft)
+• Saving Throws: Wisdom, Charisma
+• Skills: Arcana, Athletics, History, Medicine, Perception, Religion, Stealth
+• Languages: Common, Dwarvish, Elvish, Draconic
+
+
+Tabaxi Traits [MotM p. 33]
+
+• Creature Type: Humanoid
+
+• Age: 20 years old
+
+• Medium Size (5' 5", 104 lbs.)
+
+• Darkvision (60 feet)
+
+• Cat's Talent (Perception, Stealth)
+
+• Cat's Claws (climbing speed 20 ft., natural attack does 1d6+0 slashing damage on hit)
+
+• Feline Agility (move double speed on turn once, able to use again after spending one turn moving at 0 speed)
+
+
+Cleric Class Features [PHB p. 57]
+
+• Ritual Casting
+
+• Blessing Of Knowledge (bonus languages, skill expertise)
+
+• Channel Divinity (1 use betw. short or long rests)
+
+• Channel Divinity: Knowledge Of The Ages (10 min. proficiency with one skill or tool)
+
+• Channel Divinity: Turn Undead (within 30 ft., Wisdom save or turned 1 min. or until damaged)
+
+No special notes.
+Spellcasting [PHB p. 201]
+
+Spell Attack Modifier +4
+Spell Save DC 12
+Cantrips Known: Guidance, Light, Mending
+
+
+Prepared Spells
+1st Level (4 slots): Command*, Identify*, Bane, Detect Magic, Bless
+
+2nd Level (2 slots): Augury*, Suggestion*, Hold Person, Enhance Ability
+
+
+* Spell is always prepared and does not count against number of prepared spells.
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: scale mail (AC 14), shield (AC +2), mace, belt pouch, set of common clothes, rope (silk, 50 feet), belaying pin (club), a non-magical lucky charm. (This load is about 114 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 9 gold pieces (gp); 40 silver pieces (sp); 47 copper pieces (cp); 4 gems (worth 10 gp each)
+

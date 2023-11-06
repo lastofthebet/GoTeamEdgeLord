@@ -1,0 +1,147 @@
+Name: Frue of the Canyon People
+Race/Ancestry/Heritage: Human
+Class & Level: Barbarian 3 (Berserker)
+Background: Hermit
+Alignment: Neutral
+Experience: 981 xp
+
+
+ABILITY SCORES & ABILITIES
+(* includes +2 proficiency bonus; ** includes expertise, if any)
+
+Strength 16
++3 ... Strength Ability Checks
++5 ... Strength Saving Throws *
++3 ... Athletics Skill
+240 lbs. ... Maximum Carrying Capacity
+480 lbs. ... Max. Push or Drag (Speed -5 ft.)
+480 lbs. ... Maximum Lift
+
+Dexterity 15
++2 ... Dexterity Ability Checks
++2 ... Dexterity Saving Throws
++2 ... Acrobatics Skill
++2 ... Sleight of Hand Skill
++2 ... Stealth Skill
+
+
+Constitution 15
++2 ... Constitution Ability Checks
++4 ... Constitution Saving Throws *
+
+Intelligence 5
+-3 ... Intelligence Ability Checks
+-3 ... Intelligence Saving Throws
+-3 ... Arcana Skill
+-3 ... History Skill
+-3 ... Investigation Skill
+-3 ... Nature Skill
+-1 ... Religion Skill  *
+
+Wisdom 14
++2 ... Wisdom Ability Checks
++2 ... Wisdom Saving Throws
++2 ... Animal Handling Skill
++2 ... Insight Skill
++4 ... Medicine Skill  *
++2 ... Perception Skill
++4 ... Survival Skill  *
+
+Charisma 13
++1 ... Charisma Ability Checks
++1 ... Charisma Saving Throws
++1 ... Deception Skill
++3 ... Intimidation Skill  *
++1 ... Performance Skill
++1 ... Persuasion Skill
+
+COMBAT [PHB p. 189]
+
+12 ... Passive Perception
++2 ... Initiative Modifier
+
+Armor Class 14 ... Armor worn: none (Unarmored Defense)
+
+30 ft. Speed ... Base distance per move
+
+32 hit points ... 3d12 Hit Dice
+
+
+Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d12+3 slashing damage. (Must be used two-handed.)
+
+
+Handaxe. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 slashing damage. (If thrown, normal range to 20 ft.; disadvantage long range 21 to 60 ft.)
+
+
+Javelin. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+
+
+Rage. Lasts 1 minute (10 rounds), or until unconscious, haven't attacked or been hit.
+
+
+FEATURES, TRAITS, SPECIAL ABILITIES
+
+Hermit Background [PHB p. 134]
+
+• Feature: Discovery (great secret).
+
+• Tech: Medieval / Steel Age.
+
+• Traits: Guardian of forgotten relic. Frigid manner.
+
+• Ideal: Truth unlocks cosmic power.
+
+• Bond: Your hermitage above all.
+
+• Flaw: Easily falls back into worldly vices.
+
+
+Proficiencies & Languages
+• Proficiency Bonus: +2
+• Armor: light armor, medium armor, shields
+• Weapons: simple weapons, martial weapons
+• Tools: herbalism kit
+• Saving Throws: Strength, Constitution
+• Skills: Intimidation, Medicine, Religion, Survival
+• Languages: Common, Dwarvish, Goblin
+
+
+Human Traits [PHB p. 29]
+
+• Creature Type: Humanoid
+
+• Age: 29 years old
+
+• Medium Size (5' 2", 146 lbs.)
+
+
+Barbarian Class Features [PHB p. 46]
+
+• Rage (3/day)
+
+• Unarmored Defense (AC)
+
+• Reckless Attack (adv attacks)
+
+• Danger Sense (adv Dex vs. traps)
+
+• Frenzy (bonus attack, exhst.)
+
+Rage Effects [PHB p. 48]
+
+• Advantage on STR checks and saves
+
+• +2 bonus on STR-based melee damage
+
+• Resistence (half damage) from bludgeoning, piercing and slashing damage.
+
+Rage. Lasts 1 minute (10 rounds), or until unconscious, haven't attacked or been hit.
+
+
+EQUIPMENT & TREASURE
+
+
+Carried Gear [PHB, p. 143]: greataxe, two (2) handaxes, five (5) javelins, explorer's pack (backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days' rations, waterskin, 50 feet of hempen rope on the side), herbalism kit (clippers, mortar and pestle, pouches and vials of herbs), set of common clothes, a scroll case stuffed full of personal notes, a winter blanket. (This load is about 86 lbs.; add 1 lb. per 50 coins carried.)
+
+
+Coins & Gems: 2 gold pieces (gp); 33 silver pieces (sp); 9 copper pieces (cp); 4 gems (worth 10 gp each)
